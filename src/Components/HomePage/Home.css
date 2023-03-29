@@ -1,0 +1,15 @@
+.buttons-container{
+    width: 40rem;
+}
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: space-evenly;
+    flex-wrap: wrap;
+}
+
+.container  > img {
+    margin: 5px 0;
+    height: 180px;
+
+}
